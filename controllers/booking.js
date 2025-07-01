@@ -70,5 +70,5 @@ const exportBookingsCSV = async (req, res) => {
 
 module.exports = {
   createBooking,
-  exportBookingsCSV
+  exportBookingsCSV,
 };
